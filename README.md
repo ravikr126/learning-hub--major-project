@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/89c103fa-f0ad-4b89-944b-0676f56460c1)
+#IF THE FILE IS NOT OPEN THEN IT MEANS THAT THE API IS EXPIRED, IF YOU WANT TO SHOW THE PROJECT LIVE AGAIN , YOU REACH OUT TO ME ON TWITTER OR [LINKEDIN](https://www.linkedin.com/in/theravikr/)
 
 
 
